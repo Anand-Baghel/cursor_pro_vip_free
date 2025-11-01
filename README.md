@@ -84,3 +84,10 @@ pip install -r requirements.txt
 
 # Run the app
 python app.py
+-----
+## 🚨 Common Issues
+```bash
+Issue	Solution
+“User not authorized” error	Avoid using temporary/disposable email services
+Permission denied	Run the script as Administrator
+Config not found	Reinstall or recreate config.ini manually
