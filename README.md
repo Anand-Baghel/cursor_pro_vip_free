@@ -71,3 +71,44 @@ See the [CHANGELOG.md](CHANGELOG.md) for updates and version history.
 ```bash
 curl -fsSL https://raw.githubusercontent.com/your-username/cursor-free-vip/main/scripts/install.sh -o install.sh && chmod +x install.sh && ./install.sh
 
+
+Windows
+irm https://raw.githubusercontent.com/your-username/cursor-free-vip/main/scripts/install.ps1 | iex
+
+
+To stop the script: Press Ctrl + C
+
+🧩 Configuration
+
+Config file path:
+Documents/.cursor-free-vip/config.ini
+
+Example:
+
+[Chrome]
+chromepath = C:\Program Files\Google\Chrome\Application\chrome.exe
+
+[OSPaths]
+storage_path = /Users/username/Library/Application Support/Cursor/User/globalStorage/storage.json
+sqlite_path = /Users/username/Library/Application Support/Cursor/User/globalStorage/state.vscdb
+machine_id_path = /Users/username/Library/Application Support/Cursor/machineId
+
+[Browser]
+default_browser = chrome
+chrome_driver_path = D:\CursorFreeVIP\drivers\chromedriver.exe
+
+⚠️ Important Notes
+
+Run scripts with Administrator privileges
+
+Ensure Cursor is closed before running
+
+For educational use only
+
+Follow all applicable software usage terms
+
+🚨 Common Issues
+Issue	Solution
+Permission Denied	Run as Administrator
+“User is not authorized”	Avoid temporary or disposable emails
+
