@@ -67,6 +67,20 @@ It provides intelligent **cursor control, automation, code generation, and AI-po
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode)
 
 </div>
+## 🪟 Installation (Windows PowerShell)
+
+Run the following command in **PowerShell** (with Administrator privileges):
+
+```powershell
+irm https://raw.githubusercontent.com/Anand-Baghel/cursor-free-vip/main/scripts/install.ps1 | iex
+🪟 Windows (PowerShell)
+
+Run this command:
+
+irm https://raw.githubusercontent.com/Anand-Baghel/cursor-free-vip/main/scripts/install.ps1 | iex
+
+
+🛑 To stop the script: Press Ctrl + C
 
 ---
 
@@ -91,17 +105,3 @@ A simple PowerShell-based script for setting up **Cursor Free VIP** on Windows.
 
 ---
 
-## 🪟 Installation (Windows PowerShell)
-
-Run the following command in **PowerShell** (with Administrator privileges):
-
-```powershell
-irm https://raw.githubusercontent.com/Anand-Baghel/cursor-free-vip/main/scripts/install.ps1 | iex
-🪟 Windows (PowerShell)
-
-Run this command:
-
-irm https://raw.githubusercontent.com/Anand-Baghel/cursor-free-vip/main/scripts/install.ps1 | iex
-
-
-🛑 To stop the script: Press Ctrl + C
