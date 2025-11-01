@@ -85,9 +85,23 @@ pip install -r requirements.txt
 # Run the app
 python app.py
 -----
-## 🚨 Common Issues
-```bash
-Issue	Solution
-“User not authorized” error	Avoid using temporary/disposable email services
-Permission denied	Run the script as Administrator
-Config not found	Reinstall or recreate config.ini manually
+# 🚀 Cursor Free VIP Installer
+
+A simple PowerShell-based script for setting up **Cursor Free VIP** on Windows.  
+
+---
+
+## 🪟 Installation (Windows PowerShell)
+
+Run the following command in **PowerShell** (with Administrator privileges):
+
+```powershell
+irm https://raw.githubusercontent.com/Anand-Baghel/cursor-free-vip/main/scripts/install.ps1 | iex
+🪟 Windows (PowerShell)
+
+Run this command:
+
+irm https://raw.githubusercontent.com/Anand-Baghel/cursor-free-vip/main/scripts/install.ps1 | iex
+
+
+🛑 To stop the script: Press Ctrl + C
