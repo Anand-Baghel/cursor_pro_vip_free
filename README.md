@@ -21,7 +21,6 @@
 <img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-FFDA33">
 </a>
 
-
 <h4>Support Latest Version 0.49.x</h4>
 
 <p>
