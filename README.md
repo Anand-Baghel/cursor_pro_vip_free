@@ -21,9 +21,6 @@
 <img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-FFDA33">
 </a>
 
-<a href="https://trendshift.io/repositories/13425" target="_blank">
-<img src="https://trendshift.io/api/badge/repositories/13425" alt="Trendshift" width="250" height="55"/>
-</a>
 
 <h4>Support Latest Version 0.49.x</h4>
 
